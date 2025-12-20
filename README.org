@@ -1,0 +1,9 @@
+* hu.dwim.sdl
+
+SDL bindings for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.sdl.git |
+| commit  | 9f71d0a                                        |
+| systems | hu.dwim.sdl                                    |
+|---------+------------------------------------------------|
